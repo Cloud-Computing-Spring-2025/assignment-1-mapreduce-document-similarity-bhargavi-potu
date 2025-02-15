@@ -1,0 +1,3 @@
+doc1    People like to use things  
+doc2    Things are important for people  
+doc3    Using things helps people do works
